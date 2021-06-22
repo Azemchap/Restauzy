@@ -28,8 +28,8 @@ p.desc-text{
     text-align: justify;
 }
 .text-content.container {
-    margin-top: 65px;
-    margin-bottom: -51px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .right-text p{
     text-align: left !important;
@@ -303,13 +303,13 @@ INTRO CONTAINER
 DESCRIPTION BODY CONTENT
 =========================*/
 .description_content {
-    padding: 50px 0;
+    padding: 0px 0px 50px 0px;
     width: 100%;
     background: #fff;
     margin: 0 auto 0 auto;
     z-index: 99;
     position: relative;
-    background: white;
+    background: rgb(255, 255, 255);
     text-align: center; 
 }
 .description_body {
